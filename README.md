@@ -3,10 +3,10 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 👨‍💻 &nbsp;I am Currently Working at Cloud It Support.\
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently studying new certifications .\
+💡 &nbsp;I like to explore new technologies.\
+🎓 &nbsp;I'm currently studying new certifications (Microsoft, Linux, Git).\
 🌱 &nbsp;I'm on track for learning more devOps.\
-✉️ &nbsp;You can shoot me an email at brian.munoz.messina@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at brian.munoz.messina@gmail.com I'll try to respond as soon as I can.\
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -35,3 +35,10 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
 
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/brian-muñoz-messina-3b5a69131/"><img src="https://img.shields.io/badge/Brian%20Muñoz%20Messina-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:brian.munoz.messina@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/braa16_/"><img src="https://img.shields.io/badge/-Brian-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
