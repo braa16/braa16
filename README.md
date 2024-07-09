@@ -7,7 +7,7 @@
 💡 &nbsp;I like to explore new technologies.\
 🎓 &nbsp;I'm currently studying new certifications (Microsoft, Linux, Git).\
 🌱 &nbsp;I'm on track for learning more devOps.\
-✉️ &nbsp;You can shoot me an email at brian.munoz.messina@gmail.com.\
+✉️ &nbsp;You can shoot me an email.\
 📄 &nbsp;Please have a look at my [CV](https://drive.google.com/file/d/1Mvv-RgOJRgLxvsFNAHaEXpfO9MFYlgDP/view?usp=sharing) for more details about me.
 
 
@@ -15,7 +15,10 @@
 
 ### 🛠 &nbsp;Operation System
 
-[![UBUNTU](https://img.shields.io/badge/UBUNTU-EB6F1F?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/) [![CENT OS](https://img.shields.io/badge/CENTOS-1F4F8C?style=for-the-badge&logo=centOs&logoColor=white)](https://www.centos.org/) [![DEBIAN](https://img.shields.io/badge/DEBIAN-A3002E?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/index.es.html) [![MICROSOFT_WINDOW SERVER](https://img.shields.io/badge/MICROSOFT_WINDOW_SERVER-0067B8?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/es-es/windows-server)
+![UBUNTU](https://img.shields.io/badge/UBUNTU-EB6F1F?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp; 
+![CENT OS](https://img.shields.io/badge/CENTOS-1F4F8C?style=for-the-badge&logo=centOs&logoColor=white)&nbsp; 
+![DEBIAN](https://img.shields.io/badge/DEBIAN-A3002E?style=for-the-badge&logo=debian&logoColor=white)&nbsp; 
+![WINDOW SERVER](https://img.shields.io/badge/MICROSOFT_WINDOW_SERVER-0067B8?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -28,7 +31,6 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-
 
 
 ### 🧰 &nbsp;Version Controll & Tools 
