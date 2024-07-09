@@ -1,18 +1,19 @@
   
 ## 👋 &nbsp;Hey there! I'm [Brian Muñoz Messina](www.linkedin.com/in/brian-muñoz-messina-3b5a69131)
 
-
 ### 👨🏻‍💻 &nbsp;About Me
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 
 👨‍💻 &nbsp;I am Currently Working at Cloud It Support.\
 💡 &nbsp;I like to explore new technologies.\
 🎓 &nbsp;I'm currently studying new certifications (Microsoft, Linux, Git).\
 🌱 &nbsp;I'm on track for learning more devOps.\
-✉️ &nbsp;You can shoot me an email at brian.munoz.messina@gmail.com I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [CV](https://drive.google.com/file/d/1Mvv-RgOJRgLxvsFNAHaEXpfO9MFYlgDP/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+✉️ &nbsp;You can shoot me an email at brian.munoz.messina@gmail.com.\
+📄 &nbsp;Please have a look at my [CV](https://drive.google.com/file/d/1Mvv-RgOJRgLxvsFNAHaEXpfO9MFYlgDP/view?usp=sharing) for more details about me.
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
  
 ### 🛠 &nbsp;Operation System
