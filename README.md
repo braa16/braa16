@@ -1,10 +1,7 @@
   
-## 👋 &nbsp;Hey there! I'm [Brian Muñoz Messina](www.linkedin.com/in/brian-muñoz-messina-3b5a69131)
+### 👋 &nbsp;Hey there! I'm [Brian Muñoz Messina](www.linkedin.com/in/brian-muñoz-messina-3b5a69131)
 
 ### 👨🏻‍💻 &nbsp;About Me
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 
 👨‍💻 &nbsp;I am Currently Working at Cloud It Support.\
 💡 &nbsp;I like to explore new technologies.\
@@ -14,10 +11,9 @@
 📄 &nbsp;Please have a look at my [CV](https://drive.google.com/file/d/1Mvv-RgOJRgLxvsFNAHaEXpfO9MFYlgDP/view?usp=sharing) for more details about me.
 
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
- 
 ### 🛠 &nbsp;Operation System
-
 
 [![UBUNTU](https://img.shields.io/badge/UBUNTU-EB6F1F?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/) [![CENT OS](https://img.shields.io/badge/CENTOS-1F4F8C?style=for-the-badge&logo=centOs&logoColor=white)](https://www.centos.org/) [![DEBIAN](https://img.shields.io/badge/DEBIAN-A3002E?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/index.es.html) [![MICROSOFT_WINDOW SERVER](https://img.shields.io/badge/MICROSOFT_WINDOW_SERVER-0067B8?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/es-es/windows-server)
 
