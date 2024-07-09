@@ -38,7 +38,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/brian-muñoz-messina-3b5a69131/"><img src="https://img.shields.io/badge/Brian%20Muñoz%20Messina-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:brian.munoz.messina@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/braa16_/"><img src="https://img.shields.io/badge/-Brian-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/brian-muñoz-messina-3b5a69131/"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:brian.munoz.messina@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/braa16_/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
