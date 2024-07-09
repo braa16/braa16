@@ -18,7 +18,7 @@
 ![UBUNTU](https://img.shields.io/badge/UBUNTU-EB6F1F?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp; 
 ![CENT OS](https://img.shields.io/badge/CENTOS-1F4F8C?style=for-the-badge&logo=centOs&logoColor=white)&nbsp; 
 ![DEBIAN](https://img.shields.io/badge/DEBIAN-A3002E?style=for-the-badge&logo=debian&logoColor=white)&nbsp; 
-![WINDOW SERVER](https://img.shields.io/badge/MICROSOFT_WINDOW_SERVER-0067B8?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+![WINDOW SERVER](https://img.shields.io/badge/WINDOW_SERVER-0067B8?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
 
 ### 🛠 &nbsp;Tech Stack
