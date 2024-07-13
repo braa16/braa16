@@ -9,7 +9,7 @@
 With more than 7 years of experience in Systems Administration, IT Support and Infrastructure management in On-Premises, Virtualized and Cloud environments.
 I have carried out tasks in the management and operation of computer systems, guaranteeing their efficiency and functionality. I stand out for my abilities to resolve possible problems and propose improvements.
 
-Mi experiencia en este conjunto de tecnologías ha sido crucial para garantizar unos servicios adecuados.
+My experience in this set of technologies has been crucial to guarantee adequate services.
 
 I am actively exploring DevOps and Cloud Computing, working with tools like Terraform for infrastructure as code (IaC), configuration management with Ansible and practicing observability with tools like Prometheus and Grafana to improve cloud application management.
 
