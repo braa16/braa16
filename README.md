@@ -14,8 +14,9 @@ My experience in this set of technologies has been crucial to guarantee adequate
 I am actively exploring DevOps and Cloud Computing, working with tools like Terraform for infrastructure as code (IaC), configuration management with Ansible and practicing observability with tools like Prometheus and Grafana to improve cloud application management.
 
 My goal of becoming a cloud professional with the goal of integrating these technologies with my current skills for a more holistic approach to cloud development
-
 </p>
+
+<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 👨‍💻 &nbsp;I am Currently Working at Cloud It Support.\
 💡 &nbsp;I like to explore new technologies.\
@@ -23,7 +24,6 @@ My goal of becoming a cloud professional with the goal of integrating these tech
 🌱 &nbsp;I'm on track for learning more devOps.\
 ✉️ &nbsp;You can shoot me an email.\
 📄 &nbsp;Please have a look at my [CV](https://drive.google.com/file/d/1Mvv-RgOJRgLxvsFNAHaEXpfO9MFYlgDP/view?usp=sharing) for more details about me.
-
 <hr>
 
 ### 👾 &nbsp;Featured Skills
@@ -125,11 +125,22 @@ My goal of becoming a cloud professional with the goal of integrating these tech
 
 ### ⚙️ &nbsp;GitHub Analytics
 
+
 <p align="center">
-<a href="https://github.com/braa16">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=braa16&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
+  <a href="https://github.com/braa16">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=braa16&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/braa16">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=braa16&theme=dark&hide_border=true"/>
+</p>
+
+<br>
+
 <hr>
 
 ### 🤝🏻 &nbsp;Connect with Me
