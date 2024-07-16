@@ -82,9 +82,22 @@ My goal of becoming a cloud professional with the goal of integrating these tech
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 
+#### 🤖 &nbsp; Automation (Learning):
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-F05032?style=for-the-badge&logo=ansible&logoColor=white)
+
+
 
 #### 🤖 &nbsp;Scripting:
 ![GNU](https://img.shields.io/badge/Bash-00000F?style=for-the-badge&logo=gnu&logoColor=white)&nbsp;
+
+
+
+#### 📟 &nbsp;Monitoring tools:
+[![Nagios](https://img.shields.io/badge/Nagios-EE1C25?style=for-the-badge&logo=nagios&logoColor=white)](https://www.nagios.org/)&nbsp;
+[![Grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=white)](https://www.nagios.org/)&nbsp;
+![DATADOG](https://img.shields.io/badge/DATADOG-632CA6?style=for-the-badge&logo=datadog&logoColor=white)&nbsp;
 
 
 
@@ -109,19 +122,6 @@ My goal of becoming a cloud professional with the goal of integrating these tech
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 
-
-#### 🤖 &nbsp; Automation:
-
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-
-
-
-
-#### 📟 &nbsp;Monitoring tools:
-[![Nagios](https://img.shields.io/badge/Nagios-EE1C25?style=for-the-badge&logo=nagios&logoColor=white)](https://www.nagios.org/)&nbsp;
-[![Grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=white)](https://www.nagios.org/)&nbsp;
-![DATADOG](https://img.shields.io/badge/DATADOG-632CA6?style=for-the-badge&logo=datadog&logoColor=white)&nbsp;
 <hr>
 
 ### ⚙️ &nbsp;GitHub Analytics
