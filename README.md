@@ -16,7 +16,7 @@ I am actively exploring DevOps and Cloud Computing, working with tools like Terr
 My goal of becoming a cloud professional with the goal of integrating these technologies with my current skills for a more holistic approach to cloud development
 </p>
 
-<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="code" width="200" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 👨‍💻 &nbsp;I am Currently Working at Cloud It Support.\
 💡 &nbsp;I like to explore new technologies.\
@@ -24,6 +24,7 @@ My goal of becoming a cloud professional with the goal of integrating these tech
 🌱 &nbsp;I'm on track for learning more devOps.\
 ✉️ &nbsp;You can shoot me an email.\
 📄 &nbsp;Please have a look at my [CV](https://drive.google.com/file/d/1Mvv-RgOJRgLxvsFNAHaEXpfO9MFYlgDP/view?usp=sharing) for more details about me.
+
 <hr>
 
 ### 👾 &nbsp;Featured Skills
